@@ -47,13 +47,9 @@ pip3 install virtualenv
 <img src="8.png">
 
 在脚本中输入以下内容：
-
-
-```python
 if __name__ == '__main__':
-    print('hello sha tu di')
 
-```
+    print('hello sha tu di')
 
 鼠标移至书写代码的区域，右键，点击run即可运行代码，至此教学结束。
 
